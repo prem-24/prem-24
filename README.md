@@ -3,10 +3,6 @@
 <h3 align="center">A young, eager 🤓 front-end enthusiast hailing from India 🇮🇳</h3>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 - 🚀 Pursuing Front-End Developer opportunities, well-versed in JavaScript, HTML, CSS, and UI/UX principles.
   
