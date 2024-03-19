@@ -3,8 +3,8 @@
 <h3 align="center">A young, eager 🤓 front-end enthusiast hailing from India 🇮🇳</h3>
 <br>
 
-- 🚀 Pursuing Front-End Developer opportunities, well-versed in JavaScript, HTML, CSS, and UI/UX principles.
-  
+- 🚀 As a Front-End Developer, I specialize in crafting intuitive digital experiences. My skills include responsive design, HTML5, CSS3, JavaScript, React, and problem-solving in DSA platforms. I lead redesign projects, collaborate with teams, and share insights through blog posts and conferences.
+
 - 💬 Let's discuss my proficiency in these tech stacks and UI/UX insights!
   
 - 🎨 Merging UI/UX expertise to craft creatively elevated user experiences.
