@@ -24,4 +24,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="40" height="40"/>
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- <img src="https://skillicons.dev/icons?i=git,babel,docker,c,vim" />
+ <img src="https://skillicons.dev/icons?i=html,css,figma,wordpress,github,git,babel,js,react,sass,nodejs,mongodb,java,netlify" />
