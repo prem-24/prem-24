@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitchopra7&show_icons=true&locale=en&layout=compact" alt="harshitchopra7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitchopra7&show_icons=true&locale=en&layout=compact" alt="prem-24" /></p>
 
 
  <img src="https://skillicons.dev/icons?i=html,css,figma,wordpress,github,git,babel,js,react,sass,nodejs,mongodb,java,netlify" />
