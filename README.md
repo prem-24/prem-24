@@ -1,5 +1,5 @@
-# Hi there! 👋, I'm Prem
-## Front-End Developer
+<h1 align="center"> Hi there! 👋, I'm Prem</h1>
+<h3 align="center">Front-End Developer</h3>
 
 <div align="center">
   <img alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
