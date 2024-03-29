@@ -2,7 +2,7 @@
 ## Front-End Developer
 
 <div align="center">
-  <img alt="coding gif" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 
 🚀 - Specializing in Front-End Development, I excel in crafting intuitive digital experiences. Proficient in responsive design, HTML5, CSS3, JavaScript, and React, I also possess strong problem-solving skills in DSA platforms. Leading redesign initiatives, I thrive on collaboration and regularly share insights through blogs and conferences.
