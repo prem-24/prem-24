@@ -20,4 +20,4 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,figma,wordpress,github,git,babel,js,react,sass,nodejs,mongodb,java,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,figma,wordpress,github,git,babel,js,react,sass,nodejs,mongodb,prisma,java,netlify" />
