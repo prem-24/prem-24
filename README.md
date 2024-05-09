@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! 👋, I'm Prem</h1>
 <h3 align="center">Front-End Developer</h3>
-<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/maahin2005/count.svg" height="50" alt="Profile Views"  />
+<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/prem-24/count.svg" height="50" alt="Profile Views"  />
 <br>
 <br>
 <div align="center">
